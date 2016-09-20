@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Feed Name</title>
+  <link href="http://domain/"/>
+  <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
+  <updated>2016-09-20T11:49:56.3362913+03:00</updated>
+  <id>http://domain/</id>
+  <author>
+    <name>Author</name>
+    <email>Email</email>
+  </author>
+
+  
+  <entry>
+    <id>http://domain//2016/09/20/Bienvenidos.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2016/09/20/Bienvenidos.html"/>
+    <title>Bienvenidos!</title>
+    <updated>2016-09-20T00:00:00+03:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;h2&gt;Bienvenidos!&lt;/h2&gt;
+&lt;p&gt;Bienvenidos!&lt;/p&gt;
+&lt;p&gt;Somos un equipo de electricistas especialistas en instalaciones de baja tensin para locales, tanto residenciales como comerciales. Realizamos el diseo y la construccin de instalaciones elctricas, informes tcnicos y trabajos elctricos. Contamos tambin con experiencia en la realizacin de mantenimiento preventivo y correctivo para pequeas y medianas industrias.&lt;/p&gt;
+&lt;p&gt;En nuestro personal contamos con personas dinmicas y honestas, tcnicos y trabajadores, que hacen un meticuloso trabajo en cada plano y en cada instalacin, conscientes de la importancia que tiene su labor en la vida y trabajo de cada uno de nuestros clientes.&lt;/p&gt;
+&lt;p&gt;As mismo, somos rigurosos en la seleccin de los materiales y componentes que empleamos, y en la aplicacin de los estndares de calidad, en cada trabajo de diseo e instalacin que realizamos. Trabajamos solo con componentes y equipos reconocidos en el mercado, que cumplen con las normas de calidad y seguridad requeridas, y que cuentan con la garanta de los fabricantes.&lt;/p&gt;</content>
+  </entry>
+  
+</feed>
